@@ -1,0 +1,41 @@
+# -----------------------------
+# Archivos de datos
+# -----------------------------
+data/raw/
+data/processed/
+data/external/
+
+# -----------------------------
+# Entornos virtuales
+# -----------------------------
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Notebooks
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Archivos de configuración y variables de entorno
+# -----------------------------
+.env
+.env.local
+*.env
+
+# -----------------------------
+# Sistemas operativos
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Archivos de logs y temporales
+# -----------------------------
+*.log
+*.tmp
+*.bak
